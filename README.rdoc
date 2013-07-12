@@ -38,3 +38,8 @@ Here are some examples to get you started.  See {MongoMapper::Querying}[http://m
     m = Movie.where(title: /^Tan/).first
 
 Once you've had some time to play around, check out the rest of the great documentation (http://mongomapper.com/documentation/getting-started/).
+
+=begin rdoc
+# details on RDoc markup
+http://docs.seattlerb.org/rdoc/RDoc/Markup.html
+=end
