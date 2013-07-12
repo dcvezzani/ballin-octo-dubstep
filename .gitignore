@@ -1,0 +1,14 @@
+work
+bin
+.bundle
+db/*.sqlite3
+tmp/
+vendor/bundle
+.htaccess
+*.sw*
+.*.sw*
+.DS_Store
+*.gz
+public/index.html
+*.log
+*.session
